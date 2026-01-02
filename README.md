@@ -6,12 +6,12 @@ Built for students who want clear notes without spending hours rewriting them.
 
 Features:
 
-Cleans messy notes
+- Cleans messy notes
 
-Adds headings and bullet points
+- Adds headings and bullet points
 
-Generates summaries
+- Generates summaries
 
-Highlights key terms
+- Highlights key terms
 
-Beginner-friendly and fast
+- Beginner-friendly and fast
